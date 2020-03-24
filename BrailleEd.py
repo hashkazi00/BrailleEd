@@ -1,4 +1,5 @@
 import gi
+import os
 import pyttsx3
 gi.require_version("Gtk", "3.0")
 from gi.repository import Gtk,Gdk
